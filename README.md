@@ -12,7 +12,7 @@ The following libraries were used:
 - Sklearn
 - Surprise 
 
-Files:
+## Files:
 1. Data_Preparation.ipynb - Process data into useful format as well as some exploration of data
 2. dev.ipynb - Development notebook for developing various approaches and measuring their performance
 3. make_predictions.ipynb - Train SVD model and generate file with predictions
